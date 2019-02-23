@@ -1,0 +1,15 @@
+c mapa de carreteras
+c contiene etiquetas con nombres de
+c las ciudades
+c autor: Pablo San Segundo
+c pablo.sansegundo@upm.es
+
+p edge 4 3
+n 1 madrid
+n 2 barcelona
+n 3 sevilla
+n 4 cordoba
+
+e 1 2 650
+e 1 3 550
+e 2 4 750
