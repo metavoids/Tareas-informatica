@@ -1,0 +1,5 @@
+﻿  listanum.cpp
+  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\listanum_antesdelexamen\listanum_antesdelexamen\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  listaNum_antesdelexamen.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\listaNum_antesdelexamen\Debug\listaNum_antesdelexamen.exe

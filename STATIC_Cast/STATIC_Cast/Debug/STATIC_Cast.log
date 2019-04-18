@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\static_cast\static_cast\source.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\static_cast\static_cast\source.cpp(10): error C2680: 'int': invalid target type for dynamic_cast
+  c:\users\jonathan\desktop\3 carrera\proyectos c++\static_cast\static_cast\source.cpp(10): note: target type must be a pointer or reference to a defined class

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\matrix_antesdelexamen\matrix_antesdelexamen\source.cpp(49): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  matrix_antesdelexamen.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\matrix_antesdelexamen\Debug\matrix_antesdelexamen.exe

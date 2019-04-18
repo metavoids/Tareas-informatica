@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\matrix\matrix\source.cpp(30): warning C4101: 'valor': unreferenced local variable
+  matrix.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\matrix\Debug\matrix.exe

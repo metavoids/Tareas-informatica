@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\complejo_clases\complejo_clases\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\complejo_clases\Debug\complejo_clases.exe not found or not built by the last incremental link; performing full link
+Source.obj : error LNK2005: "class Complex mic1" (?mic1@@3VComplex@@A) already defined in complex.obj
+Source.obj : error LNK2005: "class Complex mic2" (?mic2@@3VComplex@@A) already defined in complex.obj
+C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\complejo_clases\Debug\complejo_clases.exe : fatal error LNK1169: one or more multiply defined symbols found

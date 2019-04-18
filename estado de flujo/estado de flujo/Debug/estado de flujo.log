@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\estado de flujo\estado de flujo\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\estado de flujo\estado de flujo\source.cpp(13): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\jonathan\desktop\3 carrera\proyectos c++\estado de flujo\estado de flujo\source.cpp(13): note: could be 'built-in C++ operator<<(bool, int)'
+  c:\users\jonathan\desktop\3 carrera\proyectos c++\estado de flujo\estado de flujo\source.cpp(13): note: while trying to match the argument list '(std::istream, int)'

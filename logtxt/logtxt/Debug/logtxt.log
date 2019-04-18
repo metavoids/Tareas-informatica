@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\logtxt\logtxt\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  logtxt.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\logtxt\Debug\logtxt.exe

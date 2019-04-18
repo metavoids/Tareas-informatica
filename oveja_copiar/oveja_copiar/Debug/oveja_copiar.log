@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\oveja_copiar\oveja_copiar\source1.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  oveja_copiar.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\oveja_copiar\Debug\oveja_copiar.exe

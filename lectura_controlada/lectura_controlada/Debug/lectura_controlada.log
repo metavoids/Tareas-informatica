@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\lectura_controlada\lectura_controlada\source.cpp(18): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  lectura_controlada.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\lectura_controlada\Debug\lectura_controlada.exe

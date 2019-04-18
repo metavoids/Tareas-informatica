@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\bancopruebas\bancopruebas\source.cpp(44): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bancopruebas.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\bancopruebas\Debug\bancopruebas.exe

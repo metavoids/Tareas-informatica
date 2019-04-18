@@ -1,0 +1,4 @@
+Nombre: eje
+Asignatura: e
+Matricula: 33
+Grupo: 333

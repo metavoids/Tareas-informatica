@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\project2\project2\source.cpp(8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jonathan\desktop\3 carrera\proyectos c++\project2\project2\source.cpp(12): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Project2.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Project2\Debug\Project2.exe

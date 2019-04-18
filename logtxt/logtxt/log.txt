@@ -1,0 +1,16 @@
+3
+Nombre:hola
+Asignatura:hola
+Matricula:300
+Grupo:300
+
+Nombre:jeje
+Asignatura:jeje
+Matricula:30
+Grupo:30
+
+Nombre:jejej
+Asignatura:ejjee
+Matricula:100
+Grupo:100
+
