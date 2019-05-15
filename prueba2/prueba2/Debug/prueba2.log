@@ -1,5 +1,0 @@
-﻿  pch.cpp
-  mat.cpp
-c:\users\jonathan\desktop\3 carrera\proyectos c++\prueba2\prueba2\mat.cpp(7): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
-  prueba2.cpp
-  Generating Code...

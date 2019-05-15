@@ -1,5 +1,0 @@
-﻿  pruebacpp.cpp
-c:\users\jonathan\desktop\3 carrera\proyectos c++\pruebacpp\pruebacpp\pruebacpp.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
-  mat.cpp
-c:\users\jonathan\desktop\3 carrera\proyectos c++\pruebacpp\pruebacpp\mat.cpp(12): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
-  Generating Code...

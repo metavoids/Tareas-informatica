@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_isequal\plantillas_isequal\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_isequal\plantillas_isequal\source.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Plantillas_Isequal.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Plantillas_Isequal\Debug\Plantillas_Isequal.exe

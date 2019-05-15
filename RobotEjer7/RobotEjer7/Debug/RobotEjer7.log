@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\robotejer7\robotejer7\source.cpp(98): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\robotejer7\robotejer7\source.cpp(84): warning C4715: 'Robot::operator+=': not all control paths return a value
+  RobotEjer7.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\RobotEjer7\Debug\RobotEjer7.exe

@@ -1,6 +1,0 @@
-﻿  Source.cpp
-c:\users\jonathan\desktop\3 carrera\proyectos c++\argumento_lineas_comandos\argumento_lineas_comandos\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
-c:\users\jonathan\desktop\3 carrera\proyectos c++\argumento_lineas_comandos\argumento_lineas_comandos\source.cpp(5): error C2065: 'complex': undeclared identifier
-c:\users\jonathan\desktop\3 carrera\proyectos c++\argumento_lineas_comandos\argumento_lineas_comandos\source.cpp(5): error C2146: syntax error: missing ';' before identifier 'micomplejo'
-c:\users\jonathan\desktop\3 carrera\proyectos c++\argumento_lineas_comandos\argumento_lineas_comandos\source.cpp(5): error C3861: 'micomplejo': identifier not found
-c:\users\jonathan\desktop\3 carrera\proyectos c++\argumento_lineas_comandos\argumento_lineas_comandos\source.cpp(7): error C2065: 'micomplejo': undeclared identifier

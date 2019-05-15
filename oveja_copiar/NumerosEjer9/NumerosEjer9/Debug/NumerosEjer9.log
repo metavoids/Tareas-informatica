@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\numerosejer9\numerosejer9\source.cpp(56): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  NumerosEjer9.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\NumerosEjer9\Debug\NumerosEjer9.exe

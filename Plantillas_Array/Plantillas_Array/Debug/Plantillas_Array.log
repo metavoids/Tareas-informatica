@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_array\plantillas_array\source.cpp(23): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_array\plantillas_array\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_array\plantillas_array\source.cpp(14): note: while compiling class template member function 'std::ostream &Array<int,5>::print(std::ostream &)'
+  c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_array\plantillas_array\source.cpp(32): note: see reference to function template instantiation 'std::ostream &Array<int,5>::print(std::ostream &)' being compiled
+  c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_array\plantillas_array\source.cpp(24): note: see reference to class template instantiation 'Array<int,5>' being compiled
+  Plantillas_Array.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Plantillas_Array\Debug\Plantillas_Array.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\vectorejer8\vectorejer8\source.cpp(57): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\vectorejer8\vectorejer8\source.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\vectorejer8\vectorejer8\source.cpp(60): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\vectorejer8\vectorejer8\source.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\vectorejer8\vectorejer8\source.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\vectorejer8\vectorejer8\source.cpp(63): warning C4305: 'argument': truncation from 'double' to 'float'
+  VectorEjer8.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\VectorEjer8\Debug\VectorEjer8.exe

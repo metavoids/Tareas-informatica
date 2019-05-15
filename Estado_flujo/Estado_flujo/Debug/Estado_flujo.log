@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\source\repos\estado_flujo\estado_flujo\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Estado_flujo.vcxproj -> C:\Users\Jonathan\source\repos\Estado_flujo\Debug\Estado_flujo.exe

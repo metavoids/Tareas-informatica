@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\fechas\fechas\source.cpp(27): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Fechas.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Fechas\Debug\Fechas.exe

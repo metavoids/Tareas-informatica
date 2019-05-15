@@ -1,50 +1,20 @@
 #include <iostream>
 #include <time.h>
-
-//using namespace std;
-//int** reservar(int n,int m) {
-//	int(**p) = new int*[n];
-//	for (int i = 0; i < n; i++)
-//		p[i] = new int[m];
-//	return p;
-//}
-//void borrar(int **p, int n) {
-//	for (int i = 0; i < n; i++) {
-//		delete[] p[i];
-//	}
-//	delete[] p;
-//	p = NULL;
-//}
-//void main() {
-//	int n, m;
-//	cin >> n >> m;
-//	int **p;
-//	p = reservar(n, m);
-//	for (int i = 0; i < n; i++) {
-//		for (int j = 0; j < m; j++) {
-//			p[i][j] = 1;
-//			cout << p[i][j] << " ";
-//		}
-//		cout << endl;
-//	}
-//	borrar(p, n);
-//	system("pause");
-//}
-class pareja {
-private:
-	int a, b;
+using namespace std;
+class B {
 public:
-	pareja(int a2, int b2) : a(a2), b(b2) {}
-	void imprimir() {
-		std::cout << a<<" "<<b<<std::endl;
-	}
-	pareja(const pareja &p) :a(p.a), b(p.b) {}
+	int dato;
+	B() { dato = 0; cout << "llamando al constructor de B sin argumentos" << endl; }
+	~B() { cout << "llamando al destructor de B" << endl; }
 };
-
-void main(){
-	pareja p1(12, 31);
-	p1.imprimir();
-	pareja p2(p1); //Uso del constructor de copia 
-	p2.imprimir();
+class A {
+	B b; //dato miembro objeto de tipo de usuario B
+public:
+	A() { cout << "llamando al constructor de A sin argumentos" << endl; }
+	~A() { cout << "llamando al destructor de A" << endl; }
+};
+void main()
+{
+	A a;
 	system("pause");
-	}
+}

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_herencia\plantillas_herencia\source.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantillas_herencia\plantillas_herencia\source.cpp(21): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Plantillas_Herencia.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Plantillas_Herencia\Debug\Plantillas_Herencia.exe

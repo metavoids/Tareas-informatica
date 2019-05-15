@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantilla_punto2d\plantilla_punto2d\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\plantilla_punto2d\plantilla_punto2d\source.cpp(13): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Plantilla_Punto2D.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Plantilla_Punto2D\Debug\Plantilla_Punto2D.exe

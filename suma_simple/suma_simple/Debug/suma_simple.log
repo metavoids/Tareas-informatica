@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\source\repos\suma_simple\suma_simple\source.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  suma_simple.vcxproj -> C:\Users\Jonathan\source\repos\suma_simple\Debug\suma_simple.exe
