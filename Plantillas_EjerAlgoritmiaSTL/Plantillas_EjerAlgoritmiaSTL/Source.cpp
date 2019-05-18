@@ -13,12 +13,12 @@ public:
 
 void main() {
 	Punto2D a(1, 1), b(2, 3), c(5, 5), d(-1, -1);
-	vector<Punto2D*> v(4);
-	cout << "La capacidad actual es: " << v.size();
-	v[0] = &a;
-	v[1] = &b;
-	v[2] = &c;
-	v[3] = &d;
+	vector<Punto2D*> v;
+	cout << "La capacidad actual es: " << v.size()<<endl;
+	v.push_back(&a);
+	v.push_back(&b);
+	v.push_back(&c);
+	v.push_back(&d);
 	for (int i = 0; i < v.size(); i++){
 		Punto2D *temp;
 		for (int j = 0; j < v.size(); j++) {
@@ -31,7 +31,7 @@ void main() {
 	}
 	for (int i = 0; i < v.size(); i++) { v[i]->print(cout); }
 	cout << endl;
-	for (int i = 0; i < v.size(); i++) { v[i]=0; }
+	v.erase(v.begin(),v.begin()+v.size());
 	for (int i = 0; i < v.size(); i++) { v[i]->print(cout); }
 	system("pause");
 }
