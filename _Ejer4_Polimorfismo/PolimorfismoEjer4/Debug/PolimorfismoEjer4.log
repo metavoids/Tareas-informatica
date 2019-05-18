@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\polimorfismoejer4\polimorfismoejer4\source.cpp(44): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\polimorfismoejer4\polimorfismoejer4\source.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+  PolimorfismoEjer4.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\PolimorfismoEjer4\Debug\PolimorfismoEjer4.exe

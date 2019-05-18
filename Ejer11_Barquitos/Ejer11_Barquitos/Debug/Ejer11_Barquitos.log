@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer11_barquitos\ejer11_barquitos\source.cpp(25): warning C4553: '==': result of expression not used; did you intend '='?
-c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer11_barquitos\ejer11_barquitos\source.cpp(110): warning C4326: return type of 'main' should be 'int' instead of 'void'
-c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer11_barquitos\ejer11_barquitos\source.cpp(79): warning C4715: 'Barco::impacto': not all control paths return a value
-  Ejer11_Barquitos.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Ejer11_Barquitos\Debug\Ejer11_Barquitos.exe

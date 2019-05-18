@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer12_monomios\ejer12_monomios\source.cpp(11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer12_monomios\ejer12_monomios\source.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer12_monomios\ejer12_monomios\source.cpp(58): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jonathan\desktop\3 carrera\proyectos c++\tareas-informatica\ejer12_monomios\ejer12_monomios\source.cpp(54): warning C4172: returning address of local variable or temporary: temp
+  Ejer12_Monomios.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\Tareas-informatica\Ejer12_Monomios\Debug\Ejer12_Monomios.exe
