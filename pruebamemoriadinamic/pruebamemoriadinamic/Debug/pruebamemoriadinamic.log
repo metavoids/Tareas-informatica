@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\users\jonathan\desktop\3 carrera\proyectos c++\pruebamemoriadinamic\pruebamemoriadinamic\source.cpp(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
-  c:\users\jonathan\desktop\3 carrera\proyectos c++\pruebamemoriadinamic\pruebamemoriadinamic\source.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
-c:\users\jonathan\desktop\3 carrera\proyectos c++\pruebamemoriadinamic\pruebamemoriadinamic\source.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  pruebamemoriadinamic.vcxproj -> C:\Users\Jonathan\Desktop\3 carrera\proyectos c++\pruebamemoriadinamic\Debug\pruebamemoriadinamic.exe
